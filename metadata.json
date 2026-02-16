@@ -1,0 +1,8 @@
+
+{
+  "name": "ZITO Plastic Exchange",
+  "description": "An eco-friendly PWA where users exchange old clothes for kitchen and plastic products. Features include a points system, WhatsApp integration, and a comprehensive admin panel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
